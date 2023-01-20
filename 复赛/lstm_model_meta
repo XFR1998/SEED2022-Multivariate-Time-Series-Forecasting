@@ -1,0 +1,1 @@
+{"ancestor_classname_set": ["LSTNetRegressor", "PaddleBaseModelImpl", "PaddleBaseModel", "BaseModel", "Trainable", "ABC", "object"], "modulename": "paddlets.models.forecasting.dl.lstnet"}
